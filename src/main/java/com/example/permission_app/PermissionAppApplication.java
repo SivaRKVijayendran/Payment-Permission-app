@@ -8,6 +8,8 @@ public class PermissionAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PermissionAppApplication.class, args);
+		//commit done nu check pannalam
+
 	}
 
 }
